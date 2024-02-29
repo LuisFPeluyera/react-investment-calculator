@@ -1,5 +1,5 @@
 
-export default function UserInput ({ onChangeInput }){
+export default function UserInput ({ onChange, userInput }){
 
 
 
